@@ -1,2 +1,3 @@
-ejercicio.txt
-laboratorio de castro-victoria
+const Prueba{
+esto es una linea de prueba
+}
